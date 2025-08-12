@@ -17,4 +17,6 @@ A Python-based banking application that allows users to create accounts, deposit
 ```bash
 pip install -r requirements.txt
 python main.py
+stramlit bank_app.py
+
 

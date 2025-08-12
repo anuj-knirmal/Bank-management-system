@@ -1,0 +1,26 @@
+[
+    {
+        "name": "anurag",
+        "age": 20,
+        "email": "anurag@gmail.com",
+        "pin": 1212,
+        "accountNo.": "$J7K0W8",
+        "Balance": 8590
+    },
+    {
+        "name": "anu",
+        "age": 21,
+        "email": "anu@gamil.com",
+        "pin": 1234,
+        "accountNo.": "etg282#",
+        "Balance": 0
+    },
+    {
+        "name": "anuj",
+        "age": 20,
+        "email": "anuj@gmail.com",
+        "pin": 1234,
+        "accountNo": "P56#EO9",
+        "Balance": 0
+    }
+]
